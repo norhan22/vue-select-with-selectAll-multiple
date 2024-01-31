@@ -5,3 +5,6 @@
 VSelect.vue,2\0\209fba4091c7a58a3502d89f19252e97dc3f0c19
 <
 VSelect2.vue,d\7\d7e52e9a2985fd4b49d4c1b86aa9a9568e2719f8
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
